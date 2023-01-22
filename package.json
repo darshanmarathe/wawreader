@@ -1,0 +1,22 @@
+{
+  "name": "wawreader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "watch": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "readline": "^1.3.0",
+    "wavefile": "^11.0.0",
+    "yargs": "^17.6.2"
+  }
+}
